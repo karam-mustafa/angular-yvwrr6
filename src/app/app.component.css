@@ -1,0 +1,22 @@
+.link {
+  margin: 0 20px;
+  text-decoration: none;
+}
+.mt-5 {
+  margin-top: 50px;
+}
+.w-100 {
+  width: 100%;
+}
+.example-form {
+  min-width: 150px;
+  max-width: 500px;
+  width: 100%;
+}
+
+.example-full-width {
+  width: 100%;
+}
+.invalid-feedback {
+  display: block !important;
+}
